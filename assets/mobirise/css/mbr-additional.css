@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Anton:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -1289,11 +1290,15 @@ body {
 }
 .cid-qYb2kvpXB6 {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
+  background-color: #149dcc;
 }
 .cid-qYb2kvpXB6 .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qYb2kvpXB6 H2 {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-qYb22Tn9A5 {
   padding-top: 90px;
@@ -1354,8 +1359,8 @@ body {
   }
 }
 .cid-qYb3RfrHFe {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-qYb3RfrHFe .mbr-section-subtitle {
@@ -1364,7 +1369,7 @@ body {
   text-align: center;
 }
 .cid-qYb3RfrHFe .number-wrap {
-  color: #565656;
+  color: #ff3366;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
